@@ -113,9 +113,9 @@ transform: translate(-50%, -50%);
   bottom: 0;
   color: #f1f1f1;
   width: 100%;
-  height: 50%;
+  height: 25%;
   transition: .5s ease;
-  padding: 4em;
+  padding-left: 1.5em;
   text-align: left;
   opacity: 1;
   background: linear-gradient(to bottom,rgba(255,255,255,0) 0,rgba(255,255,255,0) 0,rgba(0,0,0,0.8) 70%);
@@ -125,17 +125,16 @@ transform: translate(-50%, -50%);
   position: absolute;
   bottom: 0;
   color: #f1f1f1;
+  text-shadow: 2px 2px 1px #000000;
   width: 100%;
-  height: 50%;
+  height: 40%;
   transition: .5s ease;
-  padding-top: 0.5em;
-  padding-bottom: 1em;
-  padding-left: 2em;
-  padding-right: 1em;
+  padding-left: 1.5em;
   text-align: left;
   opacity: 1;
   background: linear-gradient(to bottom,rgba(255,255,255,0) 0,rgba(255,255,255,0) 0,rgba(0,0,0,0.8) 70%);
 }
+
 
 /*overlay fotogalerie */
 .overlay {
@@ -152,7 +151,7 @@ transform: translate(-50%, -50%);
 }
 
 /* icons */
-.fa {
+a .fa {
   padding: 20px;
   font-size: 30px;
   width: 80px;
@@ -161,7 +160,7 @@ transform: translate(-50%, -50%);
   opacity: 0.7;
 }
 
-.fa:hover {
+a .fa:hover {
   opacity: 1;
 }
 
@@ -178,4 +177,24 @@ top:0;
 height:100%;
 width:100%;
 position:absolute;
+}
+
+a button h5{
+	margin: 0;
+}
+
+h1 {
+	margin: 0;
+}
+h2 {
+	margin: 0;
+}
+h3 {
+	margin: 0;
+}
+h4 {
+	margin: 0;
+}
+h5 {
+	margin: 0;
 }
