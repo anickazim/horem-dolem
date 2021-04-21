@@ -220,3 +220,7 @@ h4 {
 h5 {
 	margin: 0;
 }
+
+.featurette-heading{
+	margin-bottom: 16px;
+}
