@@ -75,6 +75,10 @@ a{
 	position: center;
 }
 
+.carousel-margin {
+	margin-top: 50px;
+}
+
 .odsazeni {
 	margin-top: 10em;
 	margin-bottom: 10em;
