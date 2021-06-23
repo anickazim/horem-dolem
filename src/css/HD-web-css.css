@@ -34,18 +34,8 @@ h5{
 a{
 	font-family: 'Nunito Sans', sans-serif;
 	font-weight: 600;
-	color: black;
 }
 
-/* mouse over link */
-a:hover {
-  color: black;
-}
-
-/* selected link */
-a:active {
-  color: black;
-}
 
 .s-height{
 	height: 85vh;
