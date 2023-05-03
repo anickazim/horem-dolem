@@ -1,0 +1,6 @@
+AuthType Basic
+Require valid-user
+Order deny,allow
+AuthUserFile /data/web/virtuals/273914/virtual/www/dobrovolnici/resources/db/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Přístup do této sekce je chráněn heslem."

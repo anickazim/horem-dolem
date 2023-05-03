@@ -1,0 +1,12 @@
+# Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^horem-dolem.cz[nc]
+RewriteRule ^(.*)$ http://www.horem-dolem.cz/$1 [r=301,nc]
+
+# Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+

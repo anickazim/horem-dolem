@@ -1,0 +1,228 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: 600;
+}
+
+.p-light{
+	color: #6c757d;
+}
+
+h1{
+	font-family: 'Red Hat Display', sans-serif;
+	font-weight: 700;
+}
+h2{
+	font-family: 'Red Hat Display', sans-serif;
+	font-weight: 700;
+}
+h3{
+	font-family: 'Red Hat Display', sans-serif;
+	font-weight: 700;
+}
+h4{
+	font-family: 'Red Hat Display', sans-serif;
+	font-weight: 700;
+}
+h5{
+	font-family: 'Red Hat Display', sans-serif;
+	font-weight: 700;
+}
+
+a{
+	font-family: 'Nunito Sans', sans-serif;
+	font-weight: 600;
+}
+
+
+.s-height{
+	height: 85vh;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30vh;
+  width: 50%;
+}
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15vh;
+}
+
+
+
+.carousel-item {
+  min-height: 65vh;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+.carousel-caption{
+	top: 8em;
+	position: center;
+}
+
+.carousel-margin {
+	margin-top: 50px;
+}
+
+.odsazeni {
+	margin-top: 10em;
+	margin-bottom: 10em;
+}
+
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  bottom: 1em;
+  left: 7em;
+transform: translate(-50%, -50%);
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.row {
+	padding: 0;
+	margin: 0;
+}
+
+.btn-position{
+	padding-top: 16em;
+}
+
+
+/* The overlay effect - lays on top of the container and over the image */
+.overlayL {
+  position: absolute;
+  bottom: 0;
+  color: #f1f1f1;
+  text-shadow: 2px 2px 1px #000000;
+  width: 100%;
+  height: 35%;
+  transition: .5s ease;
+  padding-left: 1.5em;
+  text-align: left;
+  opacity: 1;
+  background: linear-gradient(to bottom,rgba(255,255,255,0) 0,rgba(255,255,255,0) 0,rgba(0,0,0,0.7) 50%);
+}
+
+.overlayM {
+  position: absolute;
+  bottom: 0;
+  color: #f1f1f1;
+  text-shadow: 2px 2px 1px #000000;
+  width: 100%;
+  height: 35%;
+  transition: .5s ease;
+  padding-left: 1.5em;
+  text-align: left;
+  opacity: 1;
+  background: linear-gradient(to bottom,rgba(255,255,255,0) 0,rgba(255,255,255,0) 0,rgba(0,0,0,0.7) 50%);
+}
+
+
+/*overlay fotogalerie */
+.overlay {
+  background: black;	
+}
+
+
+.overlay-img {
+	opacity: 0.8;
+}
+
+.overlay-img:hover {
+  opacity: 1;
+}
+
+/* icons */
+a .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+a .fa:hover {
+  opacity: 1;
+}
+
+
+.map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+a button h5{
+	margin: 0;
+}
+
+h1 {
+	margin: 0;
+}
+h2 {
+	margin: 0;
+}
+h3 {
+	margin: 0;
+}
+h4 {
+	margin: 0;
+}
+h5 {
+	margin: 0;
+}
+
+.featurette-heading{
+	margin-bottom: 16px;
+}

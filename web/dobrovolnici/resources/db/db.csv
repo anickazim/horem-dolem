@@ -1,0 +1,6 @@
+NAME,SURNAME,EMAIL,PHONE,BIRTHDATE,BIRTHNUMBER,ADDRESS,CITY,TSHIRTSIZE,NOTE
+Štěpán,Tesař,tesar.pepan@gmail.com,+420 731 597 410,2007-03-25,,Provodov 41,Provodov,L,
+David,Jabůrek,dav.jaburek@gmail.com,+420 604 642 874,2004-11-12,0411127431,"Buková 6033",Zlín,XL,
+Jakub,Píštěk,kuba.pistek@gmail.com,+420 722 410 113,2005-04-07,050407/7431,"Příkrá 6908",Zlín,L,
+Nikola,Vojkůvková,nikola.vojkuvkova21@seznam.cz,722362611,2006-01-18,065118/7075,"Nad Humny 729","Zlín ",M,
+"Matěj ",Košárek,kosarek.m@gmail.com,777079347,1800-01-01,1212125555,Provodov,"Horem Dolem",M,"Zkouším jestli tendlecten formular funguje"
