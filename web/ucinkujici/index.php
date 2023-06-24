@@ -7,29 +7,29 @@
 
 	
 		<section class="container pt-5 pb-5">
-			<h1 class="text-center pt-5 pb-5">ÚČINKUJÍCÍ</h1>
+			<h1 class="text-center pt-5 pb-5">ÚČINKUJÍCÍ 2023</h1>
 				<div class="bg-danger">
 					
 				<div class="row">
 					<div class="col-md-8 col-sm-12 p-0">
-						<a href="/ucinkujici-2023/huso">
-						<img src="fotky/ucinkujici-2023/huso.jpg" width="100%" alt="Huso účinkující Horem Dolem 2023"/>					
-						<div class="overlayL"><h4>Huso</h4><p>R’N’B (Rychle’N’Brutálně)</p></div>
+					<a href="/ucinkujici-2023/usurper-slug">
+							<img src="fotky/ucinkujici-2023/usurper-slug.jpg" width="100%" alt="Usurper Slug účinkující Horem Dolem 2023"/>
+							<div class="overlayM"><h4>Usurper Slug (HG)</h4><p>punk'n'roll</p></div>
 						</a>
 					</div>
 					
 					<div class="col-md-4 col-sm-12 p-0">
 						<div class="row">
 							<div class="col-12 p-0">
-								<a href="/ucinkujici-2023/bartleby">
-								<img src="fotky/ucinkujici-2023/bartleby.jpg" width="100%" alt="Bartleby účinkující Horem Dolem 2023"/>
-								<div class="overlayM"><h4>Bartleby</h4><p>rap</p></div>
-								</a>
+						<a href="/ucinkujici-2023/holinky">
+							<img src="fotky/ucinkujici-2023/holinky.jpg" width="100%" alt="Holinky účinkující Horem Dolem 2023"/>
+							<div class="overlayM"><h4>Holinky</h4><p>klezmer</p></div>
+						</a>
 							</div>
 							<div class="col-12 p-0">
-								<a href="/ucinkujici-2023/hihihahaholky">
-								<img src="fotky/ucinkujici-2023/hihihahaholky.jpg" width="100%" alt="účinkující Horem Dolem 2023 Hihihahaholky"/>
-								<div class="overlayM"><h4>Hihihahaholky</h4><p>alternativa</p></div>
+							<a href="/ucinkujici-2023/bartleby">
+								<img src="fotky/ucinkujici-2023/bartleby.jpg" width="100%" alt="Bartleby účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Bartleby</h4><p>rap</p></div>
 								</a>
 							</div>
 						</div>
@@ -38,21 +38,21 @@
 			
 				<div class="row">
 							<div class="col-md-4 col-sm-12 p-0">
-								<a href="/ucinkujici-2023/metronome-blues">
-								<img src="fotky/ucinkujici-2023/metronome-blues.jpg" width="100%" alt="Metronome blues účinkující Horem Dolem 2023"/>
-								<div class="overlayM"><h4>Metronome Blues</h4><p>blues</p></div>
+							<a href="/ucinkujici-2023/slam-poetry">
+								<img src="fotky/ucinkujici-2023/slam-poetry-vasek-z-ase.jpg" width="100%" alt="Slam poetry účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Slam poetry</h4><p>poezie</p></div>
 								</a>
 							</div>
 							<div class="col-md-4 col-sm-12 p-0">
-								<a href="/ucinkujici-2023/mmnk">
+							<a href="/ucinkujici-2023/metronome-blues">
+								<img src="fotky/ucinkujici-2023/metronome-blues.jpg" width="100%" alt="Metronome blues účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Met.blues</h4><p>blues</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+							<a href="/ucinkujici-2023/mmnk">
 								<img src="fotky/ucinkujici-2023/mmnk.jpg" width="100%" alt="MMNK účinkující Horem Dolem 2023"/>
 								<div class="overlayM"><h4>MMNK</h4><p>rock</p></div>
-								</a>
-							</div>
-							<div class="col-md-4 col-sm-12 p-0">
-								<a href="/ucinkujici-2023/deadrams">
-								<img src="fotky/ucinkujici-2023/deadrams.jpg" width="100%" alt="Deadrams účinkující Horem Dolem 2023"/>
-								<div class="overlayM"><h4>Deadrams</h4><p>hardcore</p></div>
 								</a>
 							</div>
 				</div>
@@ -67,10 +67,10 @@
 						<div class="row">
 							
 							<div class="col-12 p-0">
-							<a href="/ucinkujici-2023/martin-prichystal">
-								<img src="fotky/ucinkujici-2023/martin-prichystal.jpg" width="100%" alt="Martin Přichystal účinkující Horem Dolem 2021"/>
-								<div class="overlayL"><h4>Martin Přichystal</h4><p>harmonikář</p></div>
-								</a>
+							<a href="/ucinkujici-2023/deadrams">
+								<img src="fotky/ucinkujici-2023/deadrams.jpg" width="100%" alt="Deadrams účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Deadrams</h4><p>hardcore</p></div>
+							</a>
 							</div>
 						
 							<div class="col-12 p-0">
@@ -85,16 +85,16 @@
 					<div class="col-md-8 col-sm-12 p-0">
 							<a href="/ucinkujici-2023/muzicka">
 							<img src="fotky/ucinkujici-2023/muzicka.jpg" width="100%" alt="Muzička účinkující Horem Dolem 2023"/>
-							<div class="overlayM"><h4>Muzička</h4><p>cimbálová muzika</p></div>
+							<div class="overlayM"><h4>Muzička (SK)</h4><p>zgýčovaný folklór</p></div>
 							</a>
 					</div>
 				</div>
 
 				<div class="row">
 							<div class="col-md-4 col-sm-12 p-0">
-								<a href="/ucinkujici-2023/holinky">
-								<img src="fotky/ucinkujici-2023/holinky.jpg" width="100%" alt="Holinky účinkující Horem Dolem 2023"/>
-								<div class="overlayM"><h4>Holinky</h4><p>klezmer</p></div>
+								<a href="/ucinkujici-2023/huso">
+								<img src="fotky/ucinkujici-2023/huso.jpg" width="100%" alt="Huso účinkující Horem Dolem 2023"/>					
+								<div class="overlayL"><h4>Huso</h4><p>R’N’B (Rychle’N’Brutálně)</p></div>
 								</a>
 							</div>
 							<div class="col-md-4 col-sm-12 p-0">
@@ -111,7 +111,155 @@
 							</div>
 				</div>
 					
+				<div class="row">
+					<div class="col-md-8 col-sm-12 p-0">
+						<a href="/ucinkujici-2023/neni-nemy">
+						<img src="fotky/ucinkujici-2023/neni-nemy.jpg" width="100%" alt="Není němý účinkující Horem Dolem 2023"/>					
+						<div class="overlayL"><h4>Není němý</h4><p>alternativní folk</p></div>
+						</a>
+					</div>
 					
+					<div class="col-md-4 col-sm-12 p-0">
+						<div class="row">
+							<div class="col-12 p-0">
+								<a href="/ucinkujici-2023/reverbunk">
+								<img src="fotky/ucinkujici-2023/reverbunk.jpg" width="100%" alt="Reverbuňk účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Reverbuňk</h4><p>audiovizuální performance</p></div>
+								</a>
+							</div>
+							<div class="col-12 p-0">
+								<a href="/ucinkujici-2023/divadelni-improvizace">
+								<img src="fotky/ucinkujici-2023/divadelni-improvizace.jpg" width="100%" alt="účinkující Horem Dolem 2023 Divadelní improvizace"/>
+								<div class="overlayM"><h4>Divadelní improvizace</h4><p>workshop</p></div>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>	
+
+
+				<div class="row">
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/avarom-dnabseulb">
+								<img src="fotky/ucinkujici-2023/avarom-dnabseulb.jpg" width="100%" alt="avaroM dnaBseulB účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>avaroM dnaBseulB</h4><p>rock</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/tanec">
+								<img src="fotky/ucinkujici-2023/tanec.jpg" width="100%" alt="workshop tanec salsa účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Tanec</h4><p>workshop</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/hihihahaholky">
+								<img src="fotky/ucinkujici-2023/hihihahaholky.jpg" width="100%" alt="účinkující Horem Dolem 2023 Hihihahaholky"/>
+								<div class="overlayM"><h4>Hihihahaholky</h4><p>alternativa</p></div>
+								</a>
+							</div>
+				</div>
+
+				<div class="row">
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/provodovjane">
+								<img src="fotky/ucinkujici-2023/provodovjane.jpg" width="100%" alt="Provodovjané účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Provodovjané</h4><p>dechová hudba</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/o-provodovske-krajine">
+								<img src="fotky/ucinkujici-2023/jan-talas.jpg" width="100%" alt="O provodovské krajině účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>O provodovské krajině</h4><p>přednáška</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/zpev">
+								<img src="fotky/ucinkujici-2023/zpev.jpg" width="100%" alt="Zpěv workshop účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Zpěv</h4><p>workshop</p></div>
+								</a>
+							</div>
+				</div>
+
+				
+				<div class="row">
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/sbor">
+								<img src="fotky/ucinkujici-2023/sbor.jpg" width="100%" alt="sbor Veselé chvíle účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Veselé chvíle</h4><p>sbor</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/deliou">
+								<img src="fotky/ucinkujici-2023/deliou.jpg" width="100%" alt="Deliou účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Delioù</h4><p>harfa a housle</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/divadlo-forum">
+								<img src="fotky/ucinkujici-2023/divadlo-forum.jpg" width="100%" alt="Divadlo fórum účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Divadlo fórum</h4><p>workshop</p></div>
+								</a>
+							</div>
+				</div>
+				
+				<div class="row">
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/dialogicke-jednani">
+								<img src="fotky/ucinkujici-2023/dialogicke-jednani.jpg" width="100%" alt="Dialogické jednání účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Dialogické jednání</h4><p>workshop</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/sedmikrasky">
+								<img src="fotky/ucinkujici-2023/sedmikrasky.jpg" width="100%" alt="Sedmikrásky účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Sedmikrásky</h4><p>scénické čtení </p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/corpo-midori">
+								<img src="fotky/ucinkujici-2023/corpo-midori.jpg" width="100%" alt="Corpo Midori účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Corpo Midori</h4><p>rock, jazz</p></div>
+								</a>
+							</div>
+				</div>
+
+
+				<div class="row">
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/vytvarna-dilna">
+								<img src="fotky/ucinkujici-2023/vytvarna-dilna.jpg" width="100%" alt="Výtvarná dílna účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Výtvarná dílna</h4><p>dílna</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/martin-prichystal">
+								<img src="fotky/ucinkujici-2023/martin-prichystal.jpg" width="100%" alt="Martin Přichystal účinkující Horem Dolem 2021"/>
+								<div class="overlayL"><h4>Martin Přichystal</h4><p>harmonikář</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/pohadka">
+								<img src="fotky/ucinkujici-2023/pohadka.jpg" width="100%" alt="Karlova a Jaromírova pohádka… účinkující Horem Dolem 2021"/>
+								<div class="overlayL"><h4>Karlova a Jaromírova pohádka…</h4><p>divadlo</p></div>
+								</a>
+							</div>
+				</div>
+
+				<div class="row">
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/autorske-prezentace">
+								<img src="fotky/ucinkujici-2023/autorske-prezentace.jpg" width="100%" alt="Autorské prezentace studentů DAMU účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Autorské prezentace studentů DAMU</h4><p>divadlo</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								
+							</div>
+				</div>
+
 <!--ucinkujici 2021
 				<div class="row">
 					<div class="col-md-8 col-sm-12 p-0">

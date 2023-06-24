@@ -1,5 +1,6 @@
 <?php
-$to = 'tesar.jakub@centrum.cz'; // note the comma
+$to[] = 'jakub@horem-dolem.cz'; // note the comma
+$to[] = 'tesar.jakub@centrum.cz';
 
 // Subject
 $subject = "Přihláška dobrovolníka " .$_POST["name"] . " " . $_POST["surname"];
@@ -62,7 +63,7 @@ $headers[] = 'Content-type: text/html; charset=UTF-8; lang=cs';
 //$headers[] = 'From: noreply@horem-dolem.cz';
 
 // Mail it
-mail($to, $subject, $message,implode("\r\n", $headers), "-f dobrovolnici@horem-dolem.cz");
+mail(implode("\r\n", $to), $subject, $message,implode("\r\n", $headers), "-f dobrovolnici@horem-dolem.cz");
 
 
 
@@ -83,13 +84,14 @@ $message_volunteer = '<html>
     <p style="padding-bottom: 5px;">Děkujeme za zájem o dobrovolnickou činnost na festivalu Horem Dolem 2023 a budeme se těšit na spolupráci.</p>
     <p style="padding-bottom: 5px;">Za tým Horem Dolem přeji krásný den!</p><br>
     <br>
-    <p style="padding-bottom: 10px;"><b>Jakub Tesař</b></p>
-    <p style="padding-bottom: 5px;">koordinátor dobrovolníků</p>
-    <p style="padding-bottom: 5px;"><a href="tel:+420 732 124 374">+420 732 124 374</a></p>
-    <p style="padding-bottom: 5px;"><a href="mailto:jakub@horem-dolem.cz">jakub@horem-dolem.cz</a></p>
-    <p style="padding-bottom: 5px;"><a href="www.horem-dolem.cz" >www.horem-dolem.cz</a></p>
-
+    <p ><b>Jakub Tesař</b></p>
+    <p >koordinátor dobrovolníků</p>
+    <p ><a href="tel:+420 732 124 374">+420 732 124 374</a></p>
+    <p ><a href="mailto:jakub@horem-dolem.cz">jakub@horem-dolem.cz</a></p>
+    <p ><a href="www.horem-dolem.cz" >www.horem-dolem.cz</a></p>
+    <a style="padding-bottom: 15px;" href="http://www.horem-dolem.cz/"><img src="http://www.horem-dolem.cz/fotky/grafika/logo-82.png" alt="horem dolem logo"></a>
     <p style="font-size: 10px; padding-top: 100px;">Toto je automaticky generovaná zpráva. Prosíme, neodpovídejte na ni.</p>
+    
 </div>
 
 

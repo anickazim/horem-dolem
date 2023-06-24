@@ -51,7 +51,7 @@
 
     <!-- ikonka-->
 
-    <link rel="shortcut icon" href="fotky/grafika/favicon.ico" type="image/x-icon">
+    <!--<link rel="shortcut icon" href="fotky/grafika/favicon.ico" type="image/x-icon">-->
 
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -88,18 +88,14 @@
 <main>
 
     <div class="container pt-5">
-        <div class="row justify-content-md-center" style="height: 10vh">
-
+        <div class="card justify-content-md-center" style="height: 10vh;border: 2px solid;border-radius: 20px;">
+            <h1 class="text-center pt-5 pb-2" style="font-family: 'Red Hat Display'">Děkujeme!</h1>
+            <h3 class="text-center pt-5" style="font-family: 'Red Hat Display'">Přihláška byla úspěšně odeslána.</h3>
+            <h3 class="text-center pb-3" style="font-family: 'Red Hat Display'">Během chvilky budete přesměrováni.</h3>
+            <div class="row justify-content-md-center">
+                <div class="loader"></div>
+            </div>
         </div>
-        <h1 class="text-center pt-5 pb-2" style="font-family: 'Red Hat Display'">Děkujeme!</h1>
-        <h3 class="text-center pt-5" style="font-family: 'Red Hat Display'">Přihláška byla úspěšně odeslána.</h3>
-        <h3 class="text-center pb-3" style="font-family: 'Red Hat Display'">Během chvilky budete přesměrováni.</h3>
-        <div class="row justify-content-md-center">
-            <div class="loader"></div>
-        </div>
-
-
-
 
     </div>
 

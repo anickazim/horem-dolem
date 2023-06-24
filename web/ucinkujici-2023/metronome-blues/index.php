@@ -7,7 +7,7 @@
 		<div class="container">
 			<div class="row featurette">
 				  <div class="col-md-7 pl-0 pr-4">
-					  <h1 class="featurette-heading">Metronome blues</h1>
+					  <h1 class="featurette-heading">Met.blues</h1>
 					 
 					  <a href="https://www.youtube.com/channel/UCqgf4k6615td4GstwOZF7sg" target="_blank" class="btn btn-social-icon"><span class="fa fa-youtube"></span></a>
 					  <a href="https://www.instagram.com/metronomeblues/" target="_blank" class="btn btn-social-icon"><span class="fa fa-instagram"></span></a>

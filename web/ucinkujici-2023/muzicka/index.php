@@ -7,7 +7,7 @@
 		<div class="container">
 			<div class="row featurette">
 				  <div class="col-md-7 pl-0 pr-4">
-					  <h1 class="featurette-heading">Muzička</h1>
+					  <h1 class="featurette-heading">Muzička (SK)</h1>
 					  
 					  <a href="https://www.muzicka.sk/" target="_blank" class="btn btn-social-icon"><span class="fa p-0"><p class="m-0">www</p></span></a>
 					  <a href="https://www.facebook.com/muzickaband" target="_blank" class="btn btn-social-icon"><span class="fa fa-facebook"></span></a>

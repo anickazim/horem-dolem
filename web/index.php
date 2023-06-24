@@ -7,34 +7,42 @@
 	<div class="container ">
 		
 		<div class="img">
-		<img src="fotky/grafika/kruhy.png" width="100%" class="center2" alt="horem dolem logo 2021"/>
+		<img src="fotky/slide/banner-ctverec.jpg" width="100%" class="center2" alt="horem dolem"/>
 		</div>
+		<!--
 		<div class="text-center  pt-5">
 			<h3 class="text-dark pb-1">HOREM DOLEM</h3>
 			<p class="lead m-0">4.–6. 7. 2023 (úterý až čtvtek – během státních svátků)</p>
 			 <p class="lead">na Provodově</p>
 		</div>
-			
-	</div>
+			-->
+</div>
 	</section>
+
 <!-- uvod na mobilu -->
 	
 <!-- uvod na PC -->
 	<section class="d-none d-lg-block">
-		  <main id="carouselExampleFade" class="carousel slide carousel-fade carousel-margin" data-ride="carousel">
+		  
+<div class=banner>
+		<img src="fotky/slide/banner23-4.jpg" alt="Festival Horem Dolem">
+</div>
+
+
+	<!--<div id="carouselExampleFade" class="carousel slide carousel-fade carousel-margin" data-ride="carousel">
 		    
 			<div class="carousel-inner" role="listbox">
-				
-					  <div class="carousel-item active" data-interval="3000" style="background-image: url('fotky/slide/banner23-1a.jpg')">
+
+					  <div class="carousel-item active" data-interval="3000" style="background-image: url('fotky/slide/banner23-4.jpg')">
 						<div class="carousel-caption">
 						</div>
 					  </div> 
 				
-					  <div class="carousel-item" data-interval="3000" style="background-image: url('fotky/slide/banner23-4.jpg')">
+					  <div class="carousel-item" data-interval="3000" style="background-image: url('fotky/slide/banner23-1a.jpg')">
 						<div class="carousel-caption">
 						</div>
 					  </div>
-				
+
 					  <div class="carousel-item" data-interval="3000" style="background-image: url('fotky/slide/banner23-5.jpg')">
 						<div class="carousel-caption">
 						</div>
@@ -51,23 +59,36 @@
 				
 					  </div>
 		
+					</div>
 			</div>
-		</main>
-			
-		
-	<!-- prouzek -->
-		<footer class="container">
-			<div class="text-center pt-5 pb-5">
-				<h5 class="text-danger pb-3">4.–6. 7. 2023 (úterý až čtvtek – během státních svátků) na Provodově</h5>
-				<h5 class="text-danger">Multižánrový festival pro všechny generace</h5>
-			</div>
-		</footer>
-	<!-- prouzek -->
+			-->	
 	 </section>
 <!-- uvod na pc -->
-			
-			
-<!-- aktuality -->	
+
+<!-- vstupenky -->
+<section>
+	<footer class="container">
+			<div class="text-center pt-5">
+			<h1 class="text-danger pb-5">HOREM DOLEM</h1>
+				<p class="lead">Multižánrový festival pro všechny generace</p>
+				<p class="lead">4.–6. 7. 2023 (úterý až čtvtek – během státních svátků)</p>
+			 	<p class="lead">na Provodově</p>
+			</div>
+			<div class="d-flex justify-content-center pt-5" id="vstupenky">
+			<a href="/vstupenky">
+				<button type="button" class="btn btn-danger"><h5>Vstupenky</h5></button>
+			</a>
+			</div>
+			<div class="d-flex justify-content-center pt-5" id="vstupenky">
+			<a href="/program">
+				<button type="button" class="btn btn-danger"><h5>Program</h5></button>
+			</a>
+			</div>
+	</footer>
+</section>		
+<!-- vstupenky -->
+
+<!-- aktuality -
 	<section class="bg-light">
 	  <div class="container pt-5 pb-5 bg-light">
 		<h1 class="text-center pt-5 pb-5">AKTUALITY</h1>
@@ -135,7 +156,7 @@
 	  </div>
 	  </section>
 		
-<!-- aktuality -->
+ aktuality -->
 			
 	
 	
@@ -143,44 +164,44 @@
 
 		<div class="container pt-5 pb-5">
 		
-			<h1 class="text-center pt-5 pb-5">ÚČINKUJÍCÍ</h1>
+			<h1 class="text-center pt-5 pb-5">ÚČINKUJÍCÍ 2023</h1>
 			
 				<div class="row">
 					
 					<div class="col-lg-6 col-md-8 col-sm-12 p-0">
-						<a href="/ucinkujici-2023/huso">
-						<img src="fotky/ucinkujici-2023/huso.jpg" width="100%" alt="Huso účinkující Horem Dolem 2023"/>					
-						<div class="overlayL"><h4>Huso</h4><p>R’N’B (Rychle’N’Brutálně)</p></div>
+					<a href="/ucinkujici-2023/usurper-slug">
+							<img src="fotky/ucinkujici-2023/usurper-slug.jpg" width="100%" alt="Usurper Slug účinkující Horem Dolem 2023"/>
+							<div class="overlayM"><h4>Usurper Slug (HG)</h4><p>punk'n'roll</p></div>
 						</a>
 					</div>
 					
 					<div class="col-lg-6 col-md-4 col-sm-12 p-0">
 						<div class="row">
 							<div class="col-lg-6 col-md-12 col-sm-12 p-0">
-								<a href="/ucinkujici-2023/bartleby">
-								<img src="fotky/ucinkujici-2023/bartleby.jpg" width="100%" alt="Bartleby účinkující Horem Dolem 2023"/>
-								<div class="overlayM"><h4>Bartleby</h4><p>rap</p></div>
-								</a>
+							<a href="/ucinkujici-2023/holinky">
+							<img src="fotky/ucinkujici-2023/holinky.jpg" width="100%" alt="Holinky účinkující Horem Dolem 2023"/>
+							<div class="overlayM"><h4>Holinky</h4><p>klezmer</p></div>
+						</a>
 							</div>
 							<div class="col-lg-6 col-md-12 col-sm-12 p-0">
-								<a href="/ucinkujici-2023/hihihahaholky">
-								<img src="fotky/ucinkujici-2023/hihihahaholky.jpg" width="100%" alt="účinkující Horem Dolem 2023 Hihihahaholky"/>
-								<div class="overlayM"><h4>Hihihahaholky</h4><p>alternativa</p></div>
+							<a href="/ucinkujici-2023/bartleby">
+								<img src="fotky/ucinkujici-2023/bartleby.jpg" width="100%" alt="Bartleby účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Bartleby</h4><p>rap</p></div>
 								</a>
 							</div>
 						</div>
 						<div class="d-sm-none d-lg-block">
 						<div class="row">
 							<div class="col-lg-6 p-0">
-								<a href="/ucinkujici-2023/metronome-blues">
-								<img src="fotky/ucinkujici-2023/metronome-blues.jpg" width="100%" alt="Metronome blues účinkující Horem Dolem 2023"/>
-								<div class="overlayM"><h4>Metronome Blues</h4><p>blues</p></div>
-								<a/>
+							<a href="/ucinkujici-2023/slam-poetry">
+								<img src="fotky/ucinkujici-2023/slam-poetry-vasek-z-ase.jpg" width="100%" alt="Slam poetry účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Slam poetry</h4><p>poezie</p></div>
+								</a>
 							</div>
 							<div class="col-lg-6 p-0">
-								<a href="/ucinkujici-2023/mmnk">
-								<img src="fotky/ucinkujici-2023/mmnk.jpg" width="100%" alt="MMNK účinkující Horem Dolem 2023"/>
-								<div class="overlayM"><h4>MMNK</h4><p>rock</p></div>
+							<a href="/ucinkujici-2023/metronome-blues">
+								<img src="fotky/ucinkujici-2023/metronome-blues.jpg" width="100%" alt="Metronome blues účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Met.blues</h4><p>blues</p></div>
 								</a>
 							</div>
 						</div>
@@ -225,9 +246,24 @@
       </div>
 	</div>
 <!-- o nas  -->
+
+<!-- playlist  -->
+<div class="pt-5 pb-5">
+	<div class="container pt-5 pb-5">
+
+				<h1 class="text-center pt-5 pb-5">PLAYLIST 2023</h1>
+				<div class="row text-center d-flex justify-content-center">
+					<div class="col-md-6">
+					<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1Jlrguv2uMMsNPn1nH1aOR?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>				</div>
+					</div>
+				</div>
+	</div>
+</div>
+<!-- playlist  -->
 	
 
 <!-- sponzoři  -->
+<div class="bg-light">
 	<div class="pt-5 pb-5">
 	<div class="container pt-5 pb-5">
 		
@@ -241,9 +277,9 @@
 				<div class="col-md-6">
 					<img src="fotky/sponzori/zverinec.png" width="100" class="p-2" alt="logo zvěřinec">
 				</div>
-				<div class="col-md-6">
+				<!--<div class="col-md-6">
 					<img src="fotky/sponzori/shd-provodov.png" width="100" class="p-2" alt="logo SHD Provodov">
-				</div>
+				</div>-->
 			</div>
 			</div>
 			
@@ -254,24 +290,30 @@
 					<img src="fotky/sponzori/provodov.png" width="80" class="p-2" alt="logo obce provodov">
 				</div>
 				<div class="col-md-6">
+					<img src="fotky/sponzori/avonet.png" width="170" class="p-2" alt="logo Avonet">
+				</div>
+				<!--<div class="col-md-6">
 					<img src="fotky/sponzori/zako.jpg" width="170" class="p-2" alt="logo Zako Turčín">
 				</div>
 				<div class="col-md-6">
 					<img src="fotky/sponzori/novy-architekti.jpg" width="250" class="p-4" alt="logo Nový architekti">
 				</div>
-				</div>
+				</div>-->
 			</div>
 		</div>
 	</div>
 	</div>
+	<div class="bg-light">
 <!-- sponzoři  -->
 	
 	
 	</main>
 
-<script>'.carousel').carousel({
+	<!-- 
+	<script>
+$('.carousel').carousel({
   interval: 500
-})</script>
-
-
+});
+</script>
+-->
 <?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php' ?>

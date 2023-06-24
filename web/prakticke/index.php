@@ -29,7 +29,7 @@
 			
 			<div class="col-12 col-md-4">
 				<div class="text-center">
-				<img class="p-3" src="fotky/prakticke/parkovani_piktogram.png" alt=""/>
+				<!--<img class="p-3" src="fotky/prakticke/parkovani_piktogram.png" alt="horem dolem parkování"/>-->
 				<h3>Parkování</h3>
 				<p class="p-light">Zaparkovat můžete zdarma na vyznačených místech cca 100&nbsp;m od areálu festivalu.</p>
 				</div>
@@ -37,24 +37,31 @@
 			
 			<div class="col-12 col-md-4">
 				<div class="text-center">
-				<img class="p-3" src="fotky/prakticke/ubytovani_piktogram.png" alt=""/>
+				<!--<img class="p-3" src="fotky/prakticke/ubytovani_piktogram.png" alt="horem dolem ubytování"/>-->
 				<h3>Ubytování</h3>
 				<p class="p-light">Je možné si postavit vlastní stan na vyznačeném místě.</p>
 				</div>
 			</div>	
 			
-			<div class="col-12 col-md-4">
-				<div class="text-center">
-				<img class="p-3" src="fotky/prakticke/stravovani_piktogram.png" alt=""/>
-				<h3>Stravování</h3>
-				<p class="p-light">Po celou dobu konání festivalu je v&nbsp;provozu bufet s&nbsp;občerstvením.</p>
-				</div>
-			</div>		
-		</div>
 			
 			<div class="col-12 col-md-4">
 				<div class="text-center">
-				<img class="p-3" src="fotky/prakticke/ztraty_nalezy_piktogram.png" alt=""/>
+				<h3>Hygiena</h3>
+				<p class="p-light">Na místě formou suchých toalet (TOI TOI) s tekoucí vodou. Sprchy bude možné využít v areálu místního fotbalového hřiště.</p>
+				</div>
+			</div>
+
+			<div class="col-12 col-md-4">
+				<div class="text-center">
+				<!--<img class="p-3" src="fotky/prakticke/stravovani_piktogram.png" alt="horem dolem stravování"/>-->
+				<h3>Stravování</h3>
+				<p class="p-light">Po celou dobu konání festivalu jsou v provozu stánky s občerstvením (vege i maso).</p>
+				</div>
+			</div>
+				
+			<div class="col-12 col-md-4">
+				<div class="text-center">
+				<!--<img class="p-3" src="fotky/prakticke/ztraty_nalezy_piktogram.png" alt=""/>-->
 				<h3>Ztráty a nálezy</h3>
 				<p class="p-light">Dejte si pozor na své osobní věci. Ztráty a&nbsp;nálezy hlaste na telefonním čísle: 777&nbsp;079&nbsp;347.</p>
 				</div>

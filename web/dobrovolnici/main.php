@@ -9,6 +9,10 @@
         <div class="row featurette">
 
             <div class="col-sm text-center">
+                <div class="p-5;m-2" style="border: 2px solid black; border-radius: 10px; background-color: rgba(245, 0, 0, 0.3); margin-bottom:20px; padding-top:15px;padding-bottom:15px;font-weight: normal;">
+                <h4>Omlouváme se, tým dobrovolníků podílejících se na festivalu Horem Dolem je v současnosti naplněn, proto nové přihlášky nepřijímáme. V případě Vašeho velkého zájmu přihlášku vyplňte, budeme Vás registrovat jako náhradníka.</h4><br>
+                <h4>Díky za pochopení, tým Horem Dolem</h4>
+                </div>
 
                 <h3 class="featurette-heading font-weight-bold">Kdo nám s tím pomáhá?</h3>
 

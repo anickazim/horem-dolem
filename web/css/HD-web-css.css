@@ -1,8 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 p{
-	font-family: 'Nunito Sans', sans-serif;
-	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
 }
 
 .p-light{
@@ -10,29 +10,29 @@ p{
 }
 
 h1{
-	font-family: 'Red Hat Display', sans-serif;
-	font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
 }
 h2{
-	font-family: 'Red Hat Display', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
 }
 h3{
-	font-family: 'Red Hat Display', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
 }
 h4{
-	font-family: 'Red Hat Display', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
 }
 h5{
-	font-family: 'Red Hat Display', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 700;
 }
 
 a{
-	font-family: 'Nunito Sans', sans-serif;
-	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
 }
 
 
@@ -54,8 +54,35 @@ a{
   margin-top: 15vh;
 }
 
+.banner{
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  overflow: hidden;
+  z-index: -1;
+}
 
 
+
+/*corousel novy*/
+.carousel {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.carousel img {
+  display: none;
+  width: 100%;
+  object-fit: cover;
+}
+
+/*corousel novy*/
+
+
+/*corousel stary
 .carousel-item {
   min-height: 65vh;
   background: no-repeat center center scroll;
@@ -75,6 +102,8 @@ a{
 .carousel-margin {
 	margin-top: 50px;
 }
+*/
+
 
 .odsazeni {
 	margin-top: 10em;
