@@ -69,21 +69,25 @@
 <section>
 	<footer class="container">
 			<div class="text-center pt-5">
-			<h1 class="text-danger pb-5">HOREM DOLEM</h1>
+				<h1 class="text-danger pb-5">HOREM DOLEM</h1>
 				<p class="lead">Multižánrový festival pro všechny generace</p>
-				<p class="lead">4.–6. 7. 2023 (úterý až čtvtek – během státních svátků)</p>
+				<p class="lead">Další ročník festivalu se uskuteční v roce 2025</p>
 			 	<p class="lead">na Provodově</p>
 			</div>
-			<div class="d-flex justify-content-center pt-5" id="vstupenky">
-			<a href="/vstupenky">
-				<button type="button" class="btn btn-danger"><h5>Vstupenky</h5></button>
-			</a>
-			</div>
-			<div class="d-flex justify-content-center pt-5" id="vstupenky">
-			<a href="/program">
-				<button type="button" class="btn btn-danger"><h5>Program</h5></button>
-			</a>
-			</div>
+
+		<div class="text-center pt-5">
+			<p class="lead">Fotky a videa z minulých ročníků najdete na našich sociálních sítích.</p>
+			<div class="row justify-content-center pt-5">
+
+			<a href="https://www.facebook.com/horemdolemprovodov/" target="_blank" class="btn btn-social-icon"><span class="fa fa-facebook"></span></a>
+					
+			<a href="https://www.instagram.com/horem_dolem_provodov/" target="_blank" class="btn btn-social-icon"><span class="fa fa-instagram"></span></a>
+
+			<a href="https://www.youtube.com/channel/UCymSzmLibkv4Twm-LQPn9vA" target="_blank" class="btn btn-social-icon"><span class="fa fa-youtube"></span></a>
+
+				</div>
+		</div>
+
 	</footer>
 </section>		
 <!-- vstupenky -->
@@ -271,10 +275,10 @@
 			<div class="col-md-6">
 		<h1 class="text-center pt-5 pb-5">POŘADATELÉ</h1>
 			<div class="row text-center d-flex justify-content-center">
-				<div class="col-md-6">
-					<img src="fotky/sponzori/unart.png" width="150" class="p-2" alt="logo unart provodov">
+				<div class="col-md-6 p-2">
+				<img src="fotky/grafika/logo-horem-dolem.png"  height="50" alt="Horem Dolem festival Provodov 2021">
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-6 p-2">
 					<img src="fotky/sponzori/zverinec.png" width="100" class="p-2" alt="logo zvěřinec">
 				</div>
 				<!--<div class="col-md-6">
@@ -286,18 +290,22 @@
 			<div class="col-md-6">
 		<h1 class="text-center pt-5 pb-5">SPONZOŘI</h1>
 				<div class="row text-center d-flex justify-content-center">
-				<div class="col-md-6">
+				<div class="col-md-6 p-2">
 					<img src="fotky/sponzori/provodov.png" width="80" class="p-2" alt="logo obce provodov">
 				</div>
-				<div class="col-md-6">
+				<div class="col-md-6 p-2">
 					<img src="fotky/sponzori/avonet.png" width="170" class="p-2" alt="logo Avonet">
+				</div>
+				<div class="col-md-6 p-2">
+					<img src="fotky/sponzori/unart.png" width="150" class="p-2" alt="logo unart provodov">
+				</div>
+				<div class="col-md-6 p-2">
+					<img src="fotky/sponzori/novy-architekti.jpg" width="250" class="p-4" alt="logo Nový architekti">
 				</div>
 				<!--<div class="col-md-6">
 					<img src="fotky/sponzori/zako.jpg" width="170" class="p-2" alt="logo Zako Turčín">
 				</div>
-				<div class="col-md-6">
-					<img src="fotky/sponzori/novy-architekti.jpg" width="250" class="p-4" alt="logo Nový architekti">
-				</div>
+				
 				</div>-->
 			</div>
 		</div>

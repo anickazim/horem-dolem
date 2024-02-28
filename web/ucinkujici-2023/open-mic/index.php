@@ -12,7 +12,6 @@
 
 					  <p class="lead">Vyzkoušej si to!</p>
 					  <p class="lead">Máš jedinečnou možnost otestovat svoji tvorbu přímo před přejícím festivalovým publikem! Překonej strach a&nbsp;přijď zahrát, zazpívat, zatančit, zarecitovat, zaimprovizovat, co jen chceš. Nikam se přihlašovat nemusíš, stačí když přijdeš včas na správné místo.</p>
-					  <p class="lead">Vystupující provází a&nbsp;moderuje Mára&nbsp;a&nbsp;Šráma.</p>
 
 				  </div>
 				  <div class="col-md-5 p-0">

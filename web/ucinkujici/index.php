@@ -253,13 +253,33 @@
 								</a>
 							</div>
 							<div class="col-md-4 col-sm-12 p-0">
-								
+							<a href="/ucinkujici-2023/inspektor-konicek">
+								<img src="fotky/ucinkujici-2023/inspektor-konicek.jpg" width="100%" alt="Inspektor Koníček účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Inspektor Koníček</h4><p>film</p></div>
+								</a>
 							</div>
 							<div class="col-md-4 col-sm-12 p-0">
-								
+								<a href="/ucinkujici-2023/snidane">
+								<img src="fotky/ucinkujici-2023/snidane.jpg" width="100%" alt="Společná snídaně účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Společná snídaně</h4><p>happening (chálka)</p></div>
+								</a>
 							</div>
 				</div>
 
+				<div class="row">
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/moderator">
+								<img src="fotky/ucinkujici-2023/moderator.jpg" width="100%" alt="Moderátor účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Daniel Kunz</h4><p>moderátor</p></div>
+								</a>
+							</div>
+							<div class="col-md-4 col-sm-12 p-0">
+								<a href="/ucinkujici-2023/cerny-lovec">
+								<img src="fotky/ucinkujici-2023/cerny-lovec.jpg" width="100%" alt="cerny lovec účinkující Horem Dolem 2023"/>
+								<div class="overlayM"><h4>Černý lovec</h4><p>underground</p></div>
+								</a>
+							</div>
+				</div>
 <!--ucinkujici 2021
 				<div class="row">
 					<div class="col-md-8 col-sm-12 p-0">

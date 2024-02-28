@@ -382,6 +382,7 @@ if (!empty($_POST)) {
                     <h3 class="featurette-heading">Zpěv</h3>
                     <p class="lead font-weight-bold">kapacita: 50</p>
                     <p class="font-weight-normal">Hudební workshop zaměřený na společný zpěv a svobodný hlasový projev s Veronikou Holcovou, která se věnuje sborovému zpěvu v různých věkových kategorií. Ve své práci propojuje zkušenosti ze studia sbormistrovství na UK a dramatické výchovy na DAMU. Přijďte se nechat unést na vlně společného zpěvu!</p> 
+                    <p class="font-weight-normal">Zkušenost se zpěvem není podmínkou</p>
                 </div>
                 <div class="col-md-5 p-0">
                     <img class="featurette-image img-fluid mx-auto" src="fotky/ucinkujici-2023/zpev.jpg" alt="Horem Dolem 2023 workshop">

@@ -54,14 +54,14 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
-                    
+                     <!--<li class="nav-item">
                     <li class="nav-item">
                         <a class="nav-link" href="/program">Program</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/vstupenky">Vstupenky</a>
                     </li>
-                    <!--<li class="nav-item">
+                   
                         <a class="nav-link" href="/aktuality">Aktuality</a>
                     </li>-->
                     <li class="nav-item">

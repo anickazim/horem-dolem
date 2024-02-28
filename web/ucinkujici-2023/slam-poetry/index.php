@@ -96,6 +96,21 @@
 	
 	</div>
 	
+	<div class="odsazeni">
+		<div class="container">
+			<div class="row featurette">
+				  <div class="col-md-7 pl-0 pr-4">
+					  <h1 class="featurette-heading">Dejv</h1>
+
+					    <p class="lead">Pochází z Liberce, vystudoval herectví alternativního a loutkového divadla. Slam poetry se věnuje od roku 2017, je čtyřnásobným finalistou MČR a bronzovým medailistou z MČR 2018.</p>
+				  </div>
+				  <div class="col-md-5 p-0">
+					<img class="featurette-image img-fluid mx-auto" src="fotky/ucinkujici-2023/slam-poetry-dejv.jpg" alt="Horem Dolem 2023 BartlebyVašek z Aše">
+				  </div>
+			</div>
+		</div>
+	
+	</div>
 </main>
 
 <!-- footer -->

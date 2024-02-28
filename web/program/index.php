@@ -44,7 +44,12 @@
 			
 			<div class="col-md-6 col-sm-12 p-0">
 				<h4 class="mb-3 mt-3">Workshopy</h4>
-				<p class="mb-1"><b class="text-danger">18:00–19:30 </b><a href="/ucinkujici-2023/dialogicke-jednani" class="text-dark"> Dialogické jednání</a></p>
+				<p class="mb-1"><b class="text-danger">19:00–20:30 </b><a href="/ucinkujici-2023/dialogicke-jednani" class="text-dark"> Dialogické jednání</a></p>
+					<div class="d-flex pt-1 pb-3">
+						<a href="/workshopy">
+						<button type="button" class="btn btn-danger"><p class="mb-0">Registrace na workshopy</p></button>
+						</a>
+					</div>
 			</div>
 
 			<div class="col-md-6 col-sm-12 p-0">
@@ -83,14 +88,19 @@
 				<p class="mb-1"><b class="text-danger">19:00 </b><a href="/ucinkujici-2023/autorske-prezentace" class="text-dark"> Autorské prezentace</a></p>
 				<p class="mb-1"><b class="text-danger">19:45 </b> Tisková konference</a></p>
 				<p class="mb-1"><b class="text-danger">21:00 </b><a href="/ucinkujici-2023/metronome-blues" class="text-dark"> Met.blues</a></p>
-				<p class="mb-1"><b class="text-danger">1:00 </b><a href="/ucinkujici-2023/corpo-midori" class="text-dark"> Corpo midory</a></p>
+				<p class="mb-1"><b class="text-danger">1:00 </b><a href="/ucinkujici-2023/corpo-midori" class="text-dark"> Corpo Midori</a></p>
 			</div>
 	
 			<div class="col-md-6 col-sm-12 p-0">
 				<h4 class="mb-3 mt-3">Workshopy</h4>
 				<p class="mb-1"><b class="text-danger">11:00–12:30 </b><a href="/ucinkujici-2023/divadelni-improvizace" class="text-dark"> Divadelní improvizace</a>
 				<p class="mb-1"><b class="text-danger">12:30–14:00 </b><a href="/ucinkujici-2023/zpev" class="text-dark"> Zpěv</a></p>
-				<p class="mb-1"><b class="text-danger">14:00–15:00 </b><a href="/ucinkujici-2023/tanec" class="text-dark"> Tanec - Salsa</a></p>
+				<p class="mb-1"><b class="text-danger">15:00–16:00 </b><a href="/ucinkujici-2023/tanec" class="text-dark"> Tanec - Salsa</a></p>
+					<div class="d-flex pt-1 pb-3">
+						<a href="/workshopy">
+						<button type="button" class="btn btn-danger m-0"><p class="mb-0">Registrace na workshopy</p></button>
+						</a>
+					</div>
 			</div>
 
 			<div class="col-md-6 col-sm-12 p-0">
@@ -113,23 +123,30 @@
 			
 			
 			<div class="col-md-6 col-sm-12 p-0">
-				<h4 class="mb-3 mt-3">Hlavní stage</h4>				
-				<p class="mb-1"><b class="text-danger">10:00 </b> Hudební překvapení</p>
-				</div>
+				<h4 class="mb-3 mt-3">V prostoru</h4>
+				<p class="mb-1"><b class="text-danger">8:30</b><a href="/ucinkujici-2023/snidane" class="text-dark"> Společná snídaně</a></p>
+			</div>
 	
-			
+			<div class="col-md-6 col-sm-12 p-0">
+				<h4 class="mb-3 mt-3">UnArt stage</h4>
+				<p class="mb-1"><b class="text-danger">10:00 </b><a href="/ucinkujici-2023/inspektor-konicek" class="text-dark"> Film: Inspektor Koníček</a></p>
+				<p class="mb-1"><b class="text-danger">11:30 </b><a href="/ucinkujici-2023/cerny-lovec" class="text-dark"> Černý lovec</a></p>
+			</div>
+
 			<div class="col-md-6 col-sm-12 p-0">
 				<h4 class="mb-3 mt-3">Workshopy</h4>
 				<p class="mb-1"><b class="text-danger">10:00–11:30 </b><a href="/ucinkujici-2023/divadlo-forum" class="text-dark"> Divadlo Fórum</a></p>
-			</div>
-			
-			<div class="col-md-6 col-sm-12 p-0">
-				<h4 class="mb-3 mt-3">V prostoru</h4>
-				<p class="mb-1"><b class="text-danger">celý den </b><a href="/ucinkujici-2023/vytvarna-dilna" class="text-dark"> Výtvarná dílna nejen pro děti</a></p>
+					<div class="d-flex pt-1 pb-3">
+						<a href="/workshopy">
+						<button type="button" class="btn btn-danger m-0"><p class="mb-0">Registrace na workshopy</p></button>
+						</a>
+					</div>
 			</div>
 		
 		</div>
 		
+		<p class="lead pt-5">Během festivalu se nezapomeňte zastavit v naší gastrozóně! Více informací nejen o občerstvení najdete v sekci <b><a href="/prakticke" class="text-dark">praktické</a></b>. (Platba kartou je u většiny stánků možná, ne však všude. Doporučujeme mít s sebou i hotovost.)<p>
+
 	</div>
 </main>
 	
