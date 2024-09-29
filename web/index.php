@@ -71,13 +71,12 @@
 			<div class="text-center pt-5">
 				<h1 class="text-danger pb-5">HOREM DOLEM</h1>
 				<p class="lead">Multižánrový festival pro všechny generace</p>
-				<p class="lead">Další ročník festivalu se uskuteční v roce 2025</p>
+				<p class="lead font-weight-bold">27.–28. června 2025</p>
 			 	<p class="lead">na Provodově</p>
 			</div>
 
 		<div class="text-center pt-5">
-			<p class="lead">Fotky a videa z minulých ročníků najdete na našich sociálních sítích.</p>
-			<div class="row justify-content-center pt-5">
+			<div class="row justify-content-center">
 
 			<a href="https://www.facebook.com/horemdolemprovodov/" target="_blank" class="btn btn-social-icon"><span class="fa fa-facebook"></span></a>
 					

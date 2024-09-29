@@ -10,12 +10,22 @@
         <h1 class="text-center pt-5 pb-5">FOTOGALERIE</h1>
 		
         <div class="row">
-			
+		<div class="col-sm-6 col-md-4 item pb-4">
+				<a href="/fotogalerie-2023">
+					<div class="overlay">
+						<div class="overlay-img">
+							<img class="img-fluid" src="fotky/2023/2023_compress/2023 (43).jpg" alt="fotky horem dolem 2023">
+							<h1 class="centered text-white">2023</h1>
+						</div>
+					</div>
+				</a>
+			</div>	
+
             <div class="col-sm-6 col-md-4 item pb-4">
 				<a href="/fotogalerie-2021">
 					<div class="overlay">
 						<div class="overlay-img">
-							<img class="img-fluid" src="fotky/2021/1.jpg" alt="fotky horem dolem 2021">
+							<img class="img-fluid" src="fotky/2021/2021_compress/1.jpg" alt="fotky horem dolem 2021">
 							<h1 class="centered text-white">2021</h1>
 						</div>
 					</div>
@@ -26,7 +36,7 @@
 				<a href="/fotogalerie-2019">
 					<div class="overlay">
 						<div class="overlay-img">
-							<img class="img-fluid" src="fotky/2019/2019-18.jpg" alt="fotky horem dolem 2019">
+							<img class="img-fluid" src="fotky/2019/2019_compress/2019-18.jpg" alt="fotky horem dolem 2019">
 							<h1 class="centered text-white">2019</h1>
 						</div>
 					</div>
